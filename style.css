@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(163, 159, 159);
+}
+
+
+.login{
+    font-size: 15px;
+    border: 2px solid white;
+    width: 70px;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+    color: white;
+}
+.login:hover {
+    background-color: rgb(140, 219, 20);
+    transition: 0.5s;
+}
+
+#nav {
+    background-color: rgb(26, 25, 25);
+}
+
+#discription{
+    background-color: rgb(58, 57, 57);
+}
+
+#logout_btn{
+    border: 1px solid white;
+    padding: 9px;
+    border-radius: 7px;
+    margin-left: 70px;
+}
+
+#logout_btn:hover {
+    background-color: rgb(140, 219, 20);
+    transition: 0.5s;
+}
+
+#title{
+    font-size: 28px;
+    color: rgb(172, 170, 170);
+}
